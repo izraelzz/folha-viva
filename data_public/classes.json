@@ -1,0 +1,149 @@
+{
+  "bitter_gourd__downey_mildew": {
+    "planta": "Melão-amargo",
+    "condicao": "Míldio",
+    "planta_origem": "Bitter Gourd",
+    "condicao_origem": "Downey mildew",
+    "saudavel": false
+  },
+  "bitter_gourd__fresh_leaf": {
+    "planta": "Melão-amargo",
+    "condicao": "Folha saudável",
+    "planta_origem": "Bitter Gourd",
+    "condicao_origem": "Fresh leaf",
+    "saudavel": true
+  },
+  "bitter_gourd__fusarium_wilt": {
+    "planta": "Melão-amargo",
+    "condicao": "Murcha de Fusarium",
+    "planta_origem": "Bitter Gourd",
+    "condicao_origem": "Fusarium wilt",
+    "saudavel": false
+  },
+  "bitter_gourd__mosaic_virus": {
+    "planta": "Melão-amargo",
+    "condicao": "Virose do mosaico",
+    "planta_origem": "Bitter Gourd",
+    "condicao_origem": "Mosaic virus",
+    "saudavel": false
+  },
+  "bottle_gourd__anthracnose": {
+    "planta": "Cabaça",
+    "condicao": "Antracnose",
+    "planta_origem": "Bottle gourd",
+    "condicao_origem": "Anthracnose",
+    "saudavel": false
+  },
+  "bottle_gourd__downey_mildew": {
+    "planta": "Cabaça",
+    "condicao": "Míldio",
+    "planta_origem": "Bottle gourd",
+    "condicao_origem": "Downey mildew",
+    "saudavel": false
+  },
+  "bottle_gourd__fresh_leaf": {
+    "planta": "Cabaça",
+    "condicao": "Folha saudável",
+    "planta_origem": "Bottle gourd",
+    "condicao_origem": "Fresh leaf",
+    "saudavel": true
+  },
+  "cauliflower__black_rot": {
+    "planta": "Couve-flor",
+    "condicao": "Podridão negra",
+    "planta_origem": "Cauliflower",
+    "condicao_origem": "Black Rot",
+    "saudavel": false
+  },
+  "cauliflower__downy_mildew": {
+    "planta": "Couve-flor",
+    "condicao": "Míldio",
+    "planta_origem": "Cauliflower",
+    "condicao_origem": "Downy mildew",
+    "saudavel": false
+  },
+  "cauliflower__fresh_leaf": {
+    "planta": "Couve-flor",
+    "condicao": "Folha saudável",
+    "planta_origem": "Cauliflower",
+    "condicao_origem": "Fresh leaf",
+    "saudavel": true
+  },
+  "cucumber__anthracnose_lesions": {
+    "planta": "Pepino",
+    "condicao": "Lesões de antracnose",
+    "planta_origem": "Cucumber",
+    "condicao_origem": "Anthracnose lesions",
+    "saudavel": false
+  },
+  "cucumber__downy_mildew": {
+    "planta": "Pepino",
+    "condicao": "Míldio",
+    "planta_origem": "Cucumber",
+    "condicao_origem": "Downy mildew",
+    "saudavel": false
+  },
+  "cucumber__fresh_leaf": {
+    "planta": "Pepino",
+    "condicao": "Folha saudável",
+    "planta_origem": "Cucumber",
+    "condicao_origem": "Fresh leaf",
+    "saudavel": true
+  },
+  "eggplant__eggplant_cercopora_leaf_spot": {
+    "planta": "Berinjela",
+    "condicao": "Mancha foliar de Cercospora",
+    "planta_origem": "Eggplant",
+    "condicao_origem": "Eggplant Cercopora leaf spot",
+    "saudavel": false
+  },
+  "eggplant__eggplant_begomovirus": {
+    "planta": "Berinjela",
+    "condicao": "Begomovirose",
+    "planta_origem": "Eggplant",
+    "condicao_origem": "Eggplant begomovirus",
+    "saudavel": false
+  },
+  "eggplant__eggplant_fresh_leaf": {
+    "planta": "Berinjela",
+    "condicao": "Folha saudável",
+    "planta_origem": "Eggplant",
+    "condicao_origem": "Eggplant fresh leaf",
+    "saudavel": true
+  },
+  "eggplant__eggplant_verticillium_wilt": {
+    "planta": "Berinjela",
+    "condicao": "Murcha de Verticillium",
+    "planta_origem": "Eggplant",
+    "condicao_origem": "Eggplant verticillium wilt",
+    "saudavel": false
+  },
+  "tomato__tomato_bacterial_spot": {
+    "planta": "Tomate",
+    "condicao": "Mancha bacteriana",
+    "planta_origem": "Tomato",
+    "condicao_origem": "Tomato Bacterial spot",
+    "saudavel": false
+  },
+  "tomato__tomato_fresh_leaf": {
+    "planta": "Tomate",
+    "condicao": "Folha saudável",
+    "planta_origem": "Tomato",
+    "condicao_origem": "Tomato Fresh leaf",
+    "saudavel": true
+  },
+  "tomato__tomato_leaf_curl_virus": {
+    "planta": "Tomate",
+    "condicao": "Virose do enrolamento das folhas",
+    "planta_origem": "Tomato",
+    "condicao_origem": "Tomato leaf curl virus",
+    "saudavel": false
+  },
+  "tomato__tomato_spotted_wilt": {
+    "planta": "Tomate",
+    "condicao": "Virose da murcha manchada",
+    "planta_origem": "Tomato",
+    "condicao_origem": "Tomato spotted wilt",
+    "saudavel": false
+  }
+}

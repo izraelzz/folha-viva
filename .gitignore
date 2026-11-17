@@ -1,0 +1,48 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local data and generated experiment reports
+/data/
+/data_public/*
+!/data_public/classes.json
+/resultados_experimental_balanceado/
+/resultados_experimental_saude/
+/resultados_multiclasse/
+/resultados_validacao_externa/
+/resultados_validacion_externa/
+
+# Generated checkpoints; keep the checkpoint used by the API
+/modelos/
+/modelos_multiclasse/
+/modelos_experimental_balanceado/
+/modelos_experimental_saude/*
+!/modelos_experimental_saude/melhor_modelo.pth
+
+# Local configuration and logs
+.env
+.env.*
+!.env.example
+*.log
+
+# Flutter and Android build output
+/mobile/.dart_tool/
+/mobile/build/
+/mobile/.flutter-plugins
+/mobile/.flutter-plugins-dependencies
+/mobile/android/.gradle/
+/mobile/android/local.properties
+/mobile/ios/Pods/
+/mobile/ios/.symlinks/
+/mobile/ios/Flutter/Generated.xcconfig
+/mobile/ios/Flutter/flutter_export_environment.sh
+
+# Editor and operating-system files
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
